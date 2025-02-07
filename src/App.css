@@ -6,7 +6,9 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  background-color: #54a3d1;
+  background-image: url("https://t3.ftcdn.net/jpg/05/13/59/72/360_F_513597277_YYqrogAmgRR9ohwTUnOM784zS9eYUcSk.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
   font-family: "Neucha", cursive;
 }
 
@@ -14,7 +16,8 @@
   text-transform: uppercase;
   font-size: 55px;
   margin: 30px 0;
-  color: white;
+  color: rgb(21, 148, 222);
+  font-weight: 800;
   z-index: 1;
   text-align: center;
 }
